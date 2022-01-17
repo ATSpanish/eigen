@@ -1,0 +1,4 @@
+This repository was made with Eigen 3.4.0. 
+
+It is compatible with C++03 and on. The majority of the repository has been deleted. All it contains at this point
+is the headerfiles necessary to run Eigen.
